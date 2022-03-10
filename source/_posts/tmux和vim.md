@@ -3,7 +3,7 @@ title: tmux与vim教程
 date: 2022-01-21
 top: true
 tags: [tmux, Linux, vim]
-categories: 开发
+categories: [开发,工具]
 ---
 # 1 tmux使用教程
 

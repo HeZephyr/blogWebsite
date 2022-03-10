@@ -2,7 +2,7 @@
 title: Kruskal算法详解
 date: 2020-08-11
 top: false
-tags: [Kruskal,最小生成树]
+tags: [Kruskal,最小生成树,C++]
 categories: 算法
 mathjax: true
 ---

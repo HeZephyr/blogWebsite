@@ -5,8 +5,8 @@
 # Site
 title: pursuit's blog
 subtitle: ''
-description: '这是我的个人blog'
-keywords:
+description: '自信的朝你梦想的方向前进，去过你所想要的生活'
+keywords: [题解,Linux,Django,开发,后端,网站]
 author: pursuit
 language: zh-CN
 timezone: ''
@@ -132,6 +132,9 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+# 站点地图
+sitemap:
+  path: sitemap.xml
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

@@ -2,7 +2,7 @@
 title: Prim算法详解
 date: 2020-7-29 11:34:35
 top: true
-tags: [Prim,最小生成树]
+tags: [Prim,最小生成树,C++]
 categories: 算法
 mathjax: true
 ---

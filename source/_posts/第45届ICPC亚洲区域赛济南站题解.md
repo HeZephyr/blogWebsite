@@ -2,7 +2,7 @@
 title: 第45届ICPC亚洲区域赛济南站题解
 date: 2021-10-7
 top: true
-tags: [ICPC]
+tags: [ICPC,C++]
 categories: 题解
 mathjax: true
 ---
