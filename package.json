@@ -30,7 +30,7 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-fluid": "^1.8.14",
     "hexo-theme-landscape": "^0.0.3",
-    "hexo-theme-yun": "^1.8.10",
+    "hexo-theme-yun": "^1.10.9",
     "hexo-wordcount": "^6.0.1"
   }
 }
